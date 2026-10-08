@@ -1,10 +1,54 @@
-- 👋 Hi, I’m Haoyue Zhang from Tempel-Tuttle,and I often call myself Plasma.I think I really need freedom.
-- 👀 I’m interested in takeing photos and running.
-- 🌱 I’m currently learning data processing and algrithom about the mass spectrometer related to bioinformatics
-- 💞️ None...
-- 📫 How to reach me please send emails : zhanghy20@mails.tsinghua.edu.cn
+# Hi, I'm Haoyue Zhang 👋
 
-<!---
-Zhanghaoyue123/Zhanghaoyue123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD @ Tsinghua University
+
+---
+
+## About Me
+
+I am a researcher interested in understanding intelligence from biological systems, scientific data, and machines.
+
+My journey:
+
+Mathematics
+↓
+Scientific Instruments
+↓
+Mass Spectrometry
+↓
+AI for Science
+↓
+Embodied Intelligence & Robotics
+
+---
+
+## Research Interests
+
+🧬 AI for Science  
+🔬 Mass Spectrometry & Omics  
+🤖 Embodied Intelligence  
+🧠 Intelligent Agents  
+🌎 Scientific Discovery
+
+---
+
+## Currently Exploring
+
+- Foundation models for scientific discovery
+- Robot intelligence
+- Multimodal learning
+- Autonomous scientific systems
+
+---
+
+## Beyond Research
+
+📷 Photography  
+🏊 Swimming  
+✍️ Writing science blogs
+
+I enjoy documenting ideas, experiments, and the world around me.
+
+---
+
+"Understanding intelligence is the first step toward building it."
