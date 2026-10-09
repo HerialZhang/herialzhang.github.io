@@ -24,7 +24,7 @@ I believe intelligence is not only about understanding data, but also about unde
 
 From understanding data to building intelligent machines.
 
-```text
+text
 2016 - 2020
 📐 Mathematics & Computational Science
 
@@ -49,6 +49,7 @@ From understanding data to building intelligent machines.
     Exploring how intelligent machines perceive, learn,
     reason, and interact with the physical world.
 ---
+
 
 ## Research Interests
 
